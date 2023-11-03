@@ -1,4 +1,4 @@
-Primeira escrita
+Primeira escrita.
 
 Segunda escrita.
 
@@ -7,5 +7,7 @@ Terceira escrita.
 Quarta escrita.
 
 Quinta escrita.
+
+Sexta escrita.
 
 Sétima escrita.
